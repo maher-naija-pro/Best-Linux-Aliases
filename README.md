@@ -1,5 +1,4 @@
 # Best-Linux-Aliases
-# Project's Title
 ---
 
 ## Table of Contents
