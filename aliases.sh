@@ -230,7 +230,6 @@ alias clear="clear && reset"
 alias reset="clear && reset"
 alias res="clear && reset"
 alias clear="clear && reset"
-alias do ="docker"
 
 # aws config 
 alias ci="vi .circleci/config.yml"
