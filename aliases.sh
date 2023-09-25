@@ -292,6 +292,10 @@ aws lambda update-function-code\
     --publish \
     --zip-file fileb://$2
 }
+alias yi='sudo yum install'
+alias texit='tmux detach'
+
+
 alias ul='upl_fnc'
 
 
